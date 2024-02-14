@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\test1.exe
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\appsettings.Development.json
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\appsettings.json
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\test1.dll
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\test1.deps.json
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\test1.runtimeconfig.json
+C:\Users\Honor\Desktop\Programming\Testing\dotnet-publish\test1.pdb
