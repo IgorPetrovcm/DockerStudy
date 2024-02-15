@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KW30XFW4IVizV2bIMMfY7xfG2dKlf9dN/fMVJGfde5da8dzJj4gEJnwLj8gv1Y6v5xkMUrvxSOMFo+fzWh8mrA==",
+  "dgSpecHash": "atn1NNMxStGLnRoY5ozWiirO74pV0EkDOo0iNctOJSyPLEuMRdjZxAMGs+Iz19iztA4O6exfJ/vsbBOMy96fow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Honor\\Desktop\\Programming\\DockerStudy\\run-docker-with-test-projects\\aspnet-test\\test1\\test1.csproj",
+  "projectFilePath": "C:\\Users\\Honor\\Desktop\\Programming\\DockerStudy\\docker-test-projects\\aspnet-test\\test1\\test1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
