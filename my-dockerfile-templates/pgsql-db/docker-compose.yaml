@@ -1,0 +1,11 @@
+version: "3.0"
+
+services:
+
+  db:
+    container_name: db1
+  
+    build: .
+
+    ports:
+      - "5431:5432"
