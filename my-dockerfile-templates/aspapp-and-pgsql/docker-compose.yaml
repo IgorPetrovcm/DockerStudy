@@ -1,0 +1,25 @@
+version: "3.0"
+
+services:
+
+  db:
+
+    build: ./pgsql
+
+    container_name: db
+
+    ports: 
+      - "5442:5432"
+
+  aspapp:
+
+    build: ./aspapp
+
+    container_name: aspapp
+
+    ports:
+      - "4020:80"
+
+    depends_on:
+      - db
+
